@@ -12,9 +12,8 @@
 
 ## 📸 Vista previa
 
-![AI Task Manager Screenshot](https://via.placeholder.com/900x500?text=AI+Task+Manager+Screenshot)
+<img width="1187" height="680" alt="image" src="https://github.com/user-attachments/assets/a724faf9-c7c0-4326-8b8a-1971382bf0ac" />
 
-> *Reemplazá esta imagen con una captura de pantalla real de tu app.*
 
 ---
 
