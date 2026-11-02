@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI Task Manager
+# AI Task Manager
 
 **Gestor de tareas inteligente con sugerencias generadas por IA**
 
@@ -17,7 +17,7 @@ Creá y organizá tus tareas por prioridad, seguí tu progreso y recibí consejo
 
 ---
 
-## 📸 Vista previa
+## Vista previa
 
 <img width="1187" height="680" alt="Vista previa de AI Task Manager" src="https://github.com/user-attachments/assets/a724faf9-c7c0-4326-8b8a-1971382bf0ac" />
 
@@ -39,7 +39,7 @@ Creá y organizá tus tareas por prioridad, seguí tu progreso y recibí consejo
 | **Base de datos** | MongoDB Atlas |
 | **IA** | Groq AI (Llama 3.1) |
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 ai-task-manager/
@@ -115,7 +115,7 @@ La app queda disponible en `http://localhost:5173`.
 
 Cada tarea puede recibir una **sugerencia personalizada** generada por **Llama 3.1** (vía Groq AI). El modelo recibe el título, la descripción y la prioridad de la tarea, y devuelve un consejo concreto sobre cómo abordarla.
 
-## 📌 Notas
+## Notas
 
 - El archivo `.env` contiene tus credenciales (`MONGODB_URI` y `GROQ_API_KEY`): **nunca lo subas al repositorio**.
 - Proyecto bajo licencia **MIT** — libre para usar y modificar.
